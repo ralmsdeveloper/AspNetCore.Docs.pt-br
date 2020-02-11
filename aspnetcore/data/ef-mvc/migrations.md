@@ -28,7 +28,7 @@ Neste tutorial, você:
 > * Aprenderá sobre o instantâneo do modelo de dados
 > * Aplicar a migração
 
-## <a name="prerequisites"></a>{1&gt;{2&gt;Pré-requisitos&lt;2}&lt;1}
+## <a name="prerequisites"></a>Pré-requisitos
 
 * [Classificação, filtragem e paginação](sort-filter-page.md)
 
